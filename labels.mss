@@ -15,6 +15,8 @@
 /* PLACE NAMES
 /* ================================================================== */
 
+/* tests */
+
 #place::country[type='country'][zoom>3][zoom<9] {
   text-name:'[name]';
   text-face-name:@sans_bold;
